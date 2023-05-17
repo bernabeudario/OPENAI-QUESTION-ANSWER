@@ -7,4 +7,4 @@ En esta ocasión dividiré el post en dos secciones:
 * en la segunda parte explicaré cómo ejecutar ChatGPT desde Pentaho Data Integration.
 
 El funcionamiento se encuentra detallado en el siguiente enlace:
-* Publicaré el enlace el 2023-05-17
+* [Abrir enlace Linkedin...](https://www.linkedin.com/pulse/chatgpt-como-utilizar-la-api-con-python-y-pentaho-data-dario-bernabeu)
